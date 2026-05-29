@@ -1,0 +1,18 @@
+h1{
+  font-weight: 900;
+  font-size: 90px;
+  margin-bottom: 10px;
+}
+input{
+  width: 100%;
+}
+.todo-row{
+  margin-bottom: 10px;
+}
+.todo-button{
+  min-width: 80px;
+  margin-left: 15px;
+}
+.container{
+text-align: left;
+}
