@@ -1,0 +1,8 @@
+.foodInput{
+  width: 95%;
+  padding: 5px;
+  margin: 10px 0px;
+  margin-bottom: 20px; 
+  border: 1px solid rgb(119, 119, 196);
+  border-radius: 2px;
+}

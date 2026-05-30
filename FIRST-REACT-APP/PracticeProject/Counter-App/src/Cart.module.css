@@ -1,0 +1,16 @@
+.buttonContainer{
+  width: 150px;
+  margin-right: 20px;
+  display: flex;
+  height: 20px;
+
+}
+button{
+  width: 150px;
+  margin-top: 5px;
+  margin-right: 20px;
+}
+
+.buttonsContainer{
+  display: flex;
+}
